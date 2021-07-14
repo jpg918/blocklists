@@ -36,7 +36,7 @@ ff02::3 ip6-allhosts
 #=====================================
 
 #RegEx whole domains
-0.0.0.0 (\.|^)twitter\.com$
+0.0.0.0 (^|\.)twitter\.com$
 
 0.0.0.0 vid1051.d41.co
 
