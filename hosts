@@ -46,4 +46,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.twitter.com
 0.0.0.0 twitter.com
 0.0.0.0 vid1051.d41.co
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
 
