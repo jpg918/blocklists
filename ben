@@ -82,3 +82,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtube.com
 0.0.0.0 account.youtube.com
 0.0.0.0 googlevideo.com
+
+# Facebook
+0.0.0.0 facebook.com
