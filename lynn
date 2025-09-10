@@ -51,7 +51,7 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 widgets.pinterest.com
 # 0.0.0.0 d.reddit.com
 
-# 0.0.0.0 onlyfans.com
+||onlyfans.com^
 
 # EA 
 ||ea.com^
@@ -118,3 +118,7 @@ ff02::3 ip6-allhosts
 
 ||roblox.com^
 ||rbxcdn.com^
+
+
+#craigslist
+||craigslist.com^
