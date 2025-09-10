@@ -11,45 +11,7 @@
 # Project releases: 
 #
 # ===============================================================
+||reddit.com^
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
-
-
-# End of custom host records.
-# Start jpg198
-
-#=====================================
-
-
-0.0.0.0 analytics.twitter.com
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 syndication.twitter.com
-#0.0.0.0 login.twitter.com
-0.0.0.0 ads.twitter.com
-#0.0.0.0 api.twitter.com
-#0.0.0.0 platform.twitter.com
-#0.0.0.0 www.twitter.com
-#0.0.0.0 twitter.com
-0.0.0.0 vid1051.d41.co
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 app.getsentry.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 d.reddit.com
 
 
